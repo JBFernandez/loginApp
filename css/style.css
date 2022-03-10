@@ -1,0 +1,7 @@
+.loginData {
+    margin: 20%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
